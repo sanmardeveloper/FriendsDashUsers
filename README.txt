@@ -6,5 +6,4 @@
 2. Установить в корневую папку с игрой
 3. Перенести всё из папки `Mods` в папку с путём: ../Friends Dash/geode/mods
 
-Документация по командам с уровнями - https://github.com/MathieuAR-GDPSFH/community-guide/blob/main/in-game-help/level-commands.md
-Документация по музыке - 
+Панель - https://friendsdash.ps.fhgdps.com/dashboard/
